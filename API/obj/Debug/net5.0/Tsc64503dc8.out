@@ -8,12 +8,14 @@ C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\memb
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\members\member-list\member-list.component.js.map
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\messages\messages.component.js
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\messages\messages.component.js.map
-C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\app-routing.module.js
-C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\app-routing.module.js.map
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\_models\user.js
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\_models\user.js.map
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\_services\account.service.js
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\_services\account.service.js.map
+C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\_guards\auth.guard.js
+C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\_guards\auth.guard.js.map
+C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\app-routing.module.js
+C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\app-routing.module.js.map
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\app.component.js
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\app.component.js.map
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\nav\nav.component.js
@@ -32,5 +34,7 @@ C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\test.js
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\test.js.map
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\app.component.spec.js
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\app.component.spec.js.map
+C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\_modules\shared.module.js
+C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\app\_modules\shared.module.js.map
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\environments\environment.prod.js
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\client\dist\out-tsc\environments\environment.prod.js.map
