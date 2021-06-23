@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JgZemqGreP5VVWT9HAnp+lOtQjavS9ei//zvnXKUy83xpYcJ8Ec3qjM5VFyQz/IGB3ru2H35KsWkWRU8Lqbi3w==",
+  "dgSpecHash": "NCgL+ks1UB+gWafekfjfF2USCPf3VTaUJJ6uARBiH5i0D8o+wIM8oXmWTKnXIXlyqH3b0HMxldJ7h+bw+P72Jg==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\Documents\\Curso Angular\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -39,6 +39,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.typescript.msbuild\\4.3.2\\microsoft.typescript.msbuild.4.3.2.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",

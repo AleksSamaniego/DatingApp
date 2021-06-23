@@ -85,5 +85,7 @@ C:\Users\USER\Documents\Curso Angular\DatingApp\API\bin\Debug\net5.0\client\pack
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\bin\Debug\net5.0\client\tsconfig.app.json
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\bin\Debug\net5.0\client\tsconfig.json
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\bin\Debug\net5.0\client\tsconfig.spec.json
-C:\Users\USER\Documents\Curso Angular\DatingApp\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
 C:\Users\USER\Documents\Curso Angular\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\Documents\Curso Angular\DatingApp\API\bin\Debug\net5.0\package-lock.json
+C:\Users\USER\Documents\Curso Angular\DatingApp\API\bin\Debug\net5.0\package.json
+C:\Users\USER\Documents\Curso Angular\DatingApp\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
