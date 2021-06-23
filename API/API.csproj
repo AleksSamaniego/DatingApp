@@ -28,6 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="client\src\app\members\" />
     <Folder Include="client\src\app\_services\" />
     <Folder Include="client\ssl\" />
   </ItemGroup>
